@@ -1,0 +1,10 @@
+{
+  "uuid": "wechat-red-dot@local",
+  "name": "WeChat Message Dot",
+  "description": "Replace native WeChat tray blinking with a steady icon and a blue dot at the lower left.",
+  "shell-version": [
+    "46"
+  ],
+  "version": 1,
+  "url": "https://github.com/ZaneHe0528/gnome-wechat-message-dot"
+}
